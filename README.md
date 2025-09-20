@@ -1,4 +1,4 @@
-# Galaxy-theme
+# Galaxy-theme  声明:内容有些借鉴xingwangzhe，在此感谢
 ## 文件结构  
 ##  Astro 项目配置的一些注意事项
 ### Astro 项目细节
