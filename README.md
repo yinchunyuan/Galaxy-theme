@@ -5,24 +5,20 @@
 <img src="src/images/profile.png" width="400" height="600">  
 
 ```
-Galaxy-theme
-       - src/
-           ├── assets/
-           ├── components/        # 组件
-           ├── content/
-                     ├── posts/   # 博客文章
-                     └── other/
-           ├── images/
-                     ├── profile.png
-           ├── layouts/
-           ├── pages/
-                     ├── en/
-                     └── index.astro
-       -  astro.config.mjs         # Astro 配置文件
-       -  _galaxy.yml              # 主题默认配置文件
-       -  package.json             # 项目依赖和脚本
-       -  tsconfig.json            # TypeScript 配置
-       -  README.md                # 项目文档
+galaxy-theme/
+├── src/
+│   ├── components/         # 组件
+│   ├── content/            # 内容
+│   │   ├── posts/          # 博客文章
+│   │   └── other/          # 其他  
+│   ├── images/             # 图片资源
+│   ├── layouts/            # 页面布局组件
+│   ├── pages/              # 页面路由, 不是放置博客文章的地方
+├── astro.config.mjs        # Astro 配置文件
+├── package.json            # 项目依赖和脚本
+├── tsconfig.json           # TypeScript 配置
+├── _galaxy.yml             # 主题默认配置文件
+└── README.md               # 项目文档
 ```
 ##  Astro 项目配置
 ### Astro 项目细节
