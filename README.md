@@ -9,7 +9,7 @@ galaxy-theme/
 ├── src/
 │   ├── components/         # 组件
 │   ├── content/            # 内容
-│   │   ├── posts/          # 博客文章
+│   │   ├── posts/          # 博客文章(在此放置)
 │   │   └── other/          # 其他  
 │   ├── images/             # 图片资源
 │   ├── layouts/            # 页面布局组件
