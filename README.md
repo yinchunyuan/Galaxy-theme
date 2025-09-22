@@ -26,5 +26,5 @@ galaxy-theme/
 创建 Astro 项目时不会直接生成主题的默认配置文件 _galaxy.yml 和 _config.yml 文件，需要自己手动创建。我没有建 _config.yml 文件，另外， _galaxy.yml 需要替换为自己的文件名
 
 ## 参考资源
-- xingwangzhe
-- Astro 官方文档
+- [xingwangzhe](https://github.com/xingwangzhe/stalux)
+- [Astro 官方文档](https://docs.astro.build/zh-cn/getting-started)
