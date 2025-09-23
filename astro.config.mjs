@@ -18,8 +18,4 @@ export default defineConfig({
         format: 'directory'
     }
 
-// 不采用开发工具栏
-    devToolbar: {
-        enabled: false
-    }    
 });

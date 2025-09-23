@@ -1,0 +1,27 @@
+# 标题网站作者信息
+title: "Galaxy 主题"
+titleDefault: "Galaxy 主题"
+siteName: "Galaxy 主题"
+author: "ycy"
+
+avatarPath: "src/images/avatar.png"
+faviconPath: "src/images/favicon.png"
+
+# 社交媒体链接(我只列了github)
+medialinks:
+  - title: "Github"
+    url: "https://github.com/yinchunyuan/Galaxy-theme"
+    icon: "github"
+
+# 友情链接
+friendlinks_title: "友情链接"
+friendlinks_description: "下面的链接对本主题的启发很大，在此感谢！"
+friendlinks: 
+  - title: "xingwangzhe"
+    url: "https://github.com/xingwangzhe/stalux"
+  - title: "Astro 官方文档"
+    url: "https://docs.astro.build/zh-cn/getting-started/"
+
+footer:
+  # 时间，用于计算运行时长
+  buildtime: "2025-9-23T6:00"
