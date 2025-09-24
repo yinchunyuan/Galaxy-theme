@@ -24,7 +24,7 @@ galaxy-theme/
 ##  项目配置
 ### 项目细节  
 - _config.yml 是用户自定义的配置文件，可以覆盖主题的默认配置文件 _galaxy.yml，但主题的默认配置文件 _galaxy.yml 不要动  
-创建 Astro 项目时不会直接生成主题的默认配置文件 _galaxy.yml 和 _config.yml 文件，需要自己手动创建。我没有建 _config.yml 文件，另外， _galaxy.yml 需要替换为自己的文件名
+创建 Astro 项目时不会直接生成 _galaxy.yml 和 _config.yml ，需要自己手动创建。我没有建 _config.yml ，另外， _galaxy.yml 需要替换为自己的文件名
 
 ## 参考资源
 - [xingwangzhe](https://github.com/xingwangzhe/stalux)
