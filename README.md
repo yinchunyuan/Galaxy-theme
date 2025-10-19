@@ -1,5 +1,5 @@
 # Galaxy-theme  主题文档 
-# 声明: 主题配置有些借鉴xingwangzhe，在此感谢
+# 声明: 主题配置有些借鉴 [xingwangzhe](https://github.com/xingwangzhe/stalux) ，在此感谢
 
 ## 项目结构  
 <img src="src/images/profile.png" width="400" height="600">  
