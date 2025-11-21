@@ -1,4 +1,4 @@
-# Galaxy-theme  主题文档 
+# Galaxy-theme  主题文档  很多东西还没完成
 # 声明: 主题配置有些借鉴 [xingwangzhe](https://github.com/xingwangzhe/stalux) ，在此感谢
 
 ##  项目配置
